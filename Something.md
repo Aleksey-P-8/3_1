@@ -2,4 +2,5 @@ We must learn
 
 Not available!
 
-Available
+Available and not available
+
